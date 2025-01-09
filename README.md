@@ -92,7 +92,8 @@ Contributions are welcome! Here's how you can help:
 
 ## 🖼️ Screenshots
 
-![Screenshot of Minekit world](https://via.placeholder.com/800x400.png?text=Screenshot+Placeholder)
+![image](https://github.com/user-attachments/assets/b0771ee3-02c0-404c-b8b4-a3d161659baf)
+
 
 ---
 
