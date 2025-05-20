@@ -1,0 +1,31 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "> **A Minecraft-inspired sandbox game built with Svelte and Three.js. Explore, build, and craft directly in your browser!**",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifsvivek/minekit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifsvivek/minekit/issues"
+  },
+  "homepage": "https://github.com/ifsvivek/minekit#readme",
+  "dependencies": {
+    "svelte": "^5.31.1",
+    "three": "^0.176.0"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "vite": "^6.3.5"
+  }
+}
