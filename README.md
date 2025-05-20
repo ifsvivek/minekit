@@ -23,17 +23,20 @@
 ## 🎮 How to Play
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/ifsvivek/minekit.git
    cd minekit
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    ```
 
 3. Start the development server:
+
    ```bash
    npm run dev
    ```
@@ -62,7 +65,7 @@ src/
 
 - [x] Render a 3D world with blocks
 - [x] Basic player movement
-- [ ] Procedural terrain generation
+- [x] Procedural terrain generation
 - [ ] Inventory system
 - [ ] Crafting mechanics
 - [ ] Multiplayer mode
@@ -93,7 +96,6 @@ Contributions are welcome! Here's how you can help:
 ## 🖼️ Screenshots
 
 ![image](https://github.com/user-attachments/assets/b0771ee3-02c0-404c-b8b4-a3d161659baf)
-
 
 ---
 
